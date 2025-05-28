@@ -95,7 +95,7 @@ Conformément au RGPD, vous disposez des droits suivants :
 - **Droit de retrait du consentement** à tout moment
 
 Pour exercer vos droits, contactez-nous à :  
-📧 **privacy@nox.app**
+📧 **privacy@nox-app.com**
 
 ---
 
