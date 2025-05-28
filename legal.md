@@ -2,7 +2,7 @@
 
 **Dernière mise à jour : 28 mai 2025**
 
-Conformément aux dispositions des articles 6-III et 19 de la loi n°2004-575 du 21 juin 2004 pour la Confiance dans l’Économie Numérique (LCEN), il est porté à la connaissance des utilisateurs et visiteurs du site **www.nox.app** et de l’application **Nox** les présentes mentions légales.
+Conformément aux dispositions des articles 6-III et 19 de la loi n°2004-575 du 21 juin 2004 pour la Confiance dans l’Économie Numérique (LCEN), il est porté à la connaissance des utilisateurs et visiteurs du site **www.nox-app.com** et de l’application **Nox** les présentes mentions légales.
 
 ---
 
