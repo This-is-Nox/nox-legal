@@ -73,7 +73,7 @@ En cas de litige, les tribunaux du ressort du siège social de l’Éditeur sont
 ## 8. Contact
 
 Pour toute question relative au site, à l’application ou aux présentes mentions, vous pouvez nous contacter à :  
-📧 **contact@nox.app**
+📧 **contact@nox-app.com**
 
 ---
 
