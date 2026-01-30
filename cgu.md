@@ -1,6 +1,6 @@
 # Conditions Générales d’Utilisation (CGU) / Terms of Use
 
-_Last updated / Dernière mise à jour : 11 December 2025_
+_Last updated / Dernière mise à jour : 29/01/2026_
 
 > This document contains both the English and French versions of the Terms of Use.  
 > Ce document contient les versions anglaise et française des Conditions Générales d’Utilisation.
@@ -13,16 +13,16 @@ _Last updated / Dernière mise à jour : 11 December 2025_
 
 ## English Version
 
->Welcome to **Nox**, the application designed to help you recentre, meditate, and explore lucid dreaming in a peaceful environment.
+>Welcome to **Miryel**, the application designed to help you recentre, meditate, and explore lucid dreaming in a peaceful environment.
 
 These Terms of Use govern access to and usage of:
 
-*   the **Nox** mobile application,
-*   the website www.nox-app.com [www.nox-app.com](https://www.nox-app.com),
+*   the **Miryel** mobile application,
+*   the website www.miryel.com [www.miryel.com](https://www.miryel.com),
 
 (hereinafter referred to as “the Service”).
 
-By using Nox, you fully and unconditionally agree to these Terms of Use.
+By using Miryel, you fully and unconditionally agree to these Terms of Use.
 
 ### 1. Purpose of the Terms of Use
 
@@ -55,7 +55,7 @@ Users agree to provide accurate, up-to-date information and to keep it maintaine
 
 ### 4. Description of the Service
 
-Nox generates daily:
+Miryel generates daily:
 * personalized meditations,
 * audio, text, or visual content,
 * based on your stated preferences, emotions, or needs.
@@ -66,7 +66,7 @@ The Service uses generative AI technologies to create unique, personalized exper
 
 ### 5. Intellectual Property
 
-All elements available within Nox — including texts, sounds, visuals, interfaces, logos, graphic identities, and generated content — are protected by copyright laws.
+All elements available within Miryel — including texts, sounds, visuals, interfaces, logos, graphic identities, and generated content — are protected by copyright laws.
 
 They are the exclusive property of the Service Provider, unless otherwise stated.  
 **Any reproduction, distribution, or unauthorized use is strictly prohibited.**
@@ -98,7 +98,7 @@ Key points :
 
 The use of the Service is under your sole responsibility.
 
-Nox:
+Miryel:
 * **does not replace medical, psychological, or therapeutic advice**,
 * is not a diagnostic or treatment tool.
 
@@ -124,21 +124,21 @@ In the event of a dispute, the competent court shall be that of the Service Prov
 ### 11. Contact
 
 For any questions regarding the Terms of Use or the Service, you may contact us at:  
-contact@nox-app.com
+contact@miryel.com
 
 ---
 
 ## Version Française
 
->Bienvenue sur **Nox**, l’application conçue pour vous offrir un moment de recentrage, de méditation et de rêve lucide.
+>Bienvenue sur **Miryel**, l’application conçue pour vous offrir un moment de recentrage, de méditation et de rêve lucide.
 
 Les présentes Conditions Générales d’Utilisation encadrent l’accès et l’usage :
-* de l’Application mobile **Nox**,  
-* du site web [www.nox-app.com](https://www.nox-app.com),  
+* de l’Application mobile **Miryel**,  
+* du site web [www.miryel.com](https://www.miryel.com),  
 
 (ci-après « le Service »).
 
-En utilisant Nox, vous acceptez pleinement et entièrement ces CGU.
+En utilisant Miryel, vous acceptez pleinement et entièrement ces CGU.
 
 ### 1. Objet des CGU
 
@@ -170,7 +170,7 @@ L’utilisateur s’engage à fournir des informations exactes et à les mainten
 
 ### 4. Description du Service
 
-Nox génère quotidiennement :
+Miryel génère quotidiennement :
 * des méditations personnalisées,  
 * des contenus audio, textes ou visuels,  
 * basés sur vos préférences, émotions ou besoins exprimés.
@@ -181,7 +181,7 @@ Le Service utilise des technologies d’IA générative, sans intervention proac
 
 ### 5. Propriété intellectuelle
 
-L’ensemble des éléments présents sur Nox — textes, sons, visuels, interfaces, logo, identité graphique, contenus générés — est protégé par le droit d’auteur.
+L’ensemble des éléments présents sur Miryel — textes, sons, visuels, interfaces, logo, identité graphique, contenus générés — est protégé par le droit d’auteur.
 
 Ils sont la propriété exclusive de l’Éditeur, sauf mention contraire.  
 **Toute reproduction, distribution ou utilisation non autorisée est strictement interdite.**
@@ -214,7 +214,7 @@ Caractéristiques :
 
 L’utilisation du Service relève de votre seule responsabilité.
 
-L’application Nox :
+L’application Miryel :
 * ne remplace **aucun avis médical, psychologique ou thérapeutique**,  
 * n’est pas un outil de diagnostic ni de traitement.
 
@@ -242,4 +242,4 @@ En cas de litige, la juridiction compétente est celle du siège social de l’�
 ### 11. Contact
 
 Pour toute question concernant les CGU ou le Service :  
-contact@nox-app.com
+contact@miryel.com

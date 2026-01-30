@@ -1,5 +1,5 @@
 # Privacy Policy / Politique de Confidentialité
-_Last updated / Dernière mise à jour : 11 December 2025_
+_Last updated / Dernière mise à jour : 30/01/2026_
 
 > This document contains both the English and French versions of the Privacy Policy.  
 > Ce document contient les versions anglaise et française de la politique de confidentialité.
@@ -12,14 +12,14 @@ _Last updated / Dernière mise à jour : 11 December 2025_
 
 ## English Version
 
-This privacy policy applies to the **Nox** app (hereby referred to as "Application") for mobile devices that was created by **Mathys DUPONT** (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This privacy policy applies to the **Miryel** app (hereby referred to as "Application") for mobile devices that was created by **Mathys DUPONT** (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
 ### Data Controller
 
 The Data Controller responsible for your personal data is:
 
 **Mathys DUPONT**  
-Email: contact@nox-app.com
+Email: contact@miryel.com
 
 ### Information Collection and Use
 
@@ -82,7 +82,7 @@ The Service Provider will retain User Provided data for as long as you use the A
 In accordance with App Store guidelines and GDPR, you have the right to request the deletion of your account and all associated data.
 
 *   In-App Deletion: You can delete your account directly inside the specific section of the Application settings. This action is immediate and irreversible.
-*   By Request: You can also contact us at contact@nox-app.com to request data deletion.
+*   By Request: You can also contact us at contact@miryel.com to request data deletion.
 
 ### User Rights (Access, Rectification, Portability)
 
@@ -98,13 +98,13 @@ If you believe that any personal data we hold about you is inaccurate or incompl
 You have the right to request a copy of your personal data in a structured, commonly used, and machine-readable format. You may also request that this data be transferred to another service provider when technically feasible.
 
 **Exercising Your Rights**  
-You can submit a request at any time by contacting us at: contact@nox-app.com. We may ask you to verify your identity before processing your request to ensure the security of your data. We commit to responding to all valid requests within the timeframes required by applicable laws.
+You can submit a request at any time by contacting us at: contact@miryel.com. We may ask you to verify your identity before processing your request to ensure the security of your data. We commit to responding to all valid requests within the timeframes required by applicable laws.
 
 ### Children
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (contact@nox-app.com) so that they will be able to take the necessary actions.
+The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (contact@miryel.com) so that they will be able to take the necessary actions.
 
 ### Security
 
@@ -122,20 +122,20 @@ By using the Application, you are consenting to the processing of your informati
 
 ### Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at :   contact@nox-app.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at :   contact@miryel.com.
 
 ---
 
 ## Version Française
 
-Cette politique de confidentialité s’applique à l’application **Nox** (ci-après l’« Application ») pour appareils mobiles, créée par **Mathys DUPONT** (ci-après le « Prestataire de service ») en tant que service commercial. Ce service est destiné à être utilisé « EN L’ÉTAT ».
+Cette politique de confidentialité s’applique à l’application **Miryel** (ci-après l’« Application ») pour appareils mobiles, créée par **Mathys DUPONT** (ci-après le « Prestataire de service ») en tant que service commercial. Ce service est destiné à être utilisé « EN L’ÉTAT ».
 
 ## Responsable du traitement
 
 Le responsable du traitement de vos données personnelles est :
 
 **Mathys DUPONT**  
-Email : contact@nox-app.com
+Email : contact@miryel.com
 
 ## Collecte et utilisation des informations
 
@@ -197,7 +197,7 @@ Le Prestataire de service conservera les données fournies par l’utilisateur t
 Conformément aux directives de l’App Store et au RGPD, vous avez le droit de demander la suppression de votre compte ainsi que de toutes les données qui y sont associées.
 
 *   Suppression depuis l’Application : Vous pouvez supprimer votre compte directement dans la section dédiée des paramètres de l’Application. Cette action est immédiate et irréversible.
-*   Sur demande : Vous pouvez également nous contacter à l’adresse contact@nox-app.com pour demander la suppression de vos données.
+*   Sur demande : Vous pouvez également nous contacter à l’adresse contact@miryel.com pour demander la suppression de vos données.
 
 ### Droits des utilisateurs (Accès, Rectification, Portabilité)
 
@@ -213,7 +213,7 @@ Si vous estimez que certaines données personnelles que nous détenons sont inex
 Vous avez le droit de demander une copie de vos données personnelles dans un format structuré, couramment utilisé et lisible par machine. Vous pouvez également demander que ces données soient transférées à un autre prestataire lorsque cela est techniquement possible.
 
 **Exercice de vos droits**. 
-Vous pouvez formuler une demande à tout moment en nous contactant à l’adresse : contact@nox-app.com. Nous pouvons vous demander de vérifier votre identité avant de traiter votre demande afin d’assurer la sécurité de vos données. Nous nous engageons à répondre à toute demande valide dans les délais requis par la loi applicable.
+Vous pouvez formuler une demande à tout moment en nous contactant à l’adresse : contact@miryel.com. Nous pouvons vous demander de vérifier votre identité avant de traiter votre demande afin d’assurer la sécurité de vos données. Nous nous engageons à répondre à toute demande valide dans les délais requis par la loi applicable.
 
 ### Enfants
 
@@ -221,7 +221,7 @@ Le Prestataire de service n’utilise pas l’Application pour solliciter intent
 
 L’Application ne s’adresse pas aux personnes de moins de 13 ans. Le Prestataire de service ne collecte pas sciemment d’informations personnellement identifiables auprès d’enfants de moins de 13 ans.
 Si nous découvrons qu’un enfant de moins de 13 ans a fourni des informations personnelles, celles-ci seront immédiatement supprimées de nos serveurs.
-Si vous êtes parent ou tuteur et que vous pensez que votre enfant nous a transmis des informations personnelles, veuillez nous contacter à contact@nox-app.com afin que nous puissions prendre les mesures appropriées.
+Si vous êtes parent ou tuteur et que vous pensez que votre enfant nous a transmis des informations personnelles, veuillez nous contacter à contact@miryel.com afin que nous puissions prendre les mesures appropriées.
 
 ### Sécurité
 
@@ -240,4 +240,4 @@ En utilisant l’Application, vous consentez au traitement de vos informations t
 
 ### Nous contacter
 
-Si vous avez des questions concernant la confidentialité lors de l’utilisation de l’Application, ou des questions sur nos pratiques, vous pouvez contacter le Prestataire de service par email à l’adresse suivante : contact@nox-app.com.
+Si vous avez des questions concernant la confidentialité lors de l’utilisation de l’Application, ou des questions sur nos pratiques, vous pouvez contacter le Prestataire de service par email à l’adresse suivante : contact@miryel.com.

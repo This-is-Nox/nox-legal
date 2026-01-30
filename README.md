@@ -1,2 +1,2 @@
-# nox-legal
-Nox legal documentation
+# miryel-legal
+Miryel legal documentation

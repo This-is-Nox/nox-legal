@@ -1,8 +1,8 @@
 # Mentions Légales
 
-**Dernière mise à jour : 28 mai 2025**
+**Dernière mise à jour : 29/01/2026**
 
-Conformément aux dispositions des articles 6-III et 19 de la loi n°2004-575 du 21 juin 2004 pour la Confiance dans l’Économie Numérique (LCEN), il est porté à la connaissance des utilisateurs et visiteurs du site **www.nox-app.com** et de l’application **Nox** les présentes mentions légales.
+Conformément aux dispositions des articles 6-III et 19 de la loi n°2004-575 du 21 juin 2004 pour la Confiance dans l’Économie Numérique (LCEN), il est porté à la connaissance des utilisateurs et visiteurs du site **www.miryel.com** et de l’application **Miryel** les présentes mentions légales.
 
 ---
 
@@ -15,7 +15,7 @@ Conformément aux dispositions des articles 6-III et 19 de la loi n°2004-575 du
 **SIREN / SIRET** : *[Numéro d'immatriculation]*  
 **RCS / RM** : *[Ville d'immatriculation]*  
 **Numéro de TVA intracommunautaire** : *[si applicable]*  
-**Email de contact** : [contact@nox-app.com]  
+**Email de contact** : [contact@miryel.com]  
 **Directeur de la publication** : *[Nom]*
 
 ---
@@ -30,14 +30,13 @@ Le site est hébergé par :
 
 L’application est distribuée via :
 
-- **Apple App Store**  
-- **Google Play Store**
+- **Apple App Store**
 
 ---
 
 ## 3. Propriété intellectuelle
 
-Tous les contenus présents sur le site et l’application (textes, images, sons, vidéos, design, logo, code source, etc.) sont la propriété exclusive de **Nox**, sauf mention contraire.
+Tous les contenus présents sur le site et l’application (textes, images, sons, vidéos, design, logo, code source, etc.) sont la propriété exclusive de **Miryel**, sauf mention contraire.
 
 Toute reproduction, représentation, modification ou exploitation partielle ou totale de ces contenus, sans autorisation préalable écrite, est interdite.
 
@@ -73,9 +72,9 @@ En cas de litige, les tribunaux du ressort du siège social de l’Éditeur sont
 ## 8. Contact
 
 Pour toute question relative au site, à l’application ou aux présentes mentions, vous pouvez nous contacter à :  
-📧 **contact@nox-app.com**
+📧 **contact@miryel.com**
 
 ---
 
-*Nox est un espace de calme et de recentrage.  
+*Miryel est un espace de calme et de recentrage.  
 Nous veillons à ce que l’expérience soit aussi respectueuse dans sa forme que dans son fond.*
